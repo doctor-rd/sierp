@@ -1,5 +1,6 @@
 # sierp
-##A small DOS program which draws a Sierpinski triangle.
+
+## A small DOS program which draws a Sierpinski triangle.
 
 This program displays the well-known Sierpinski triangle. This is done by
 computing Pascal's triangle modulo 2. See [Wikipedia]
@@ -8,3 +9,8 @@ computing Pascal's triangle modulo 2. See [Wikipedia]
 I know there are smaller versions out there but they look different. :)
 
 ruelle, 2010
+
+## A Sierpinski triangle in 32 Bytes
+![Screenshot](sierp.png)
+
+* from [pouet](https://pouet.net/prod.php?which=56064) (external link)
