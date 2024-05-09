@@ -13,4 +13,5 @@ ruelle, 2010
 ## A Sierpinski triangle in 32 Bytes
 ![Screenshot](sierp.png)
 
+* [download](https://github.com/doctor-rd/sierp/releases)
 * from [pouet](https://pouet.net/prod.php?which=56064) (external link)
